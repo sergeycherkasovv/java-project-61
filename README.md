@@ -15,3 +15,9 @@
 4. [**Progression**](https://asciinema.org/a/zQR1KAS9XJB7AXoN4ATJMVoXX) - Определите пропущенное число в арифметической прогрессии.
 
 5. [**Prime**](https://asciinema.org/a/vLUc3UJGKjHJsXXZ5muai74zC) - Определите, является ли число простым. Ответьте "yes", если число простое, и "no" в противном случае
+
+## 📮 Автор
+Разработано в рамках обучения на Hexlet.
+Автор: [sergeycherkasovv](https://github.com/sergeycherkasovv)
+
+Почта: iamcherkasov.job@gmail.com
